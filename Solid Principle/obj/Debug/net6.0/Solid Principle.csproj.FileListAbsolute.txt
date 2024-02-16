@@ -1,0 +1,15 @@
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\bin\Debug\net6.0\Solid Principle.exe
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\bin\Debug\net6.0\Solid Principle.deps.json
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\bin\Debug\net6.0\Solid Principle.runtimeconfig.json
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\bin\Debug\net6.0\Solid Principle.dll
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\bin\Debug\net6.0\Solid Principle.pdb
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\obj\Debug\net6.0\Solid Principle.csproj.AssemblyReference.cache
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\obj\Debug\net6.0\Solid Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\obj\Debug\net6.0\Solid Principle.AssemblyInfoInputs.cache
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\obj\Debug\net6.0\Solid Principle.AssemblyInfo.cs
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\obj\Debug\net6.0\Solid Principle.csproj.CoreCompileInputs.cache
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\obj\Debug\net6.0\Solid Principle.dll
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\obj\Debug\net6.0\refint\Solid Principle.dll
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\obj\Debug\net6.0\Solid Principle.pdb
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\obj\Debug\net6.0\Solid Principle.genruntimeconfig.cache
+C:\Users\dhruvin\Documents\Advanced C#\Solid Principle Demo\Solid Principle\obj\Debug\net6.0\ref\Solid Principle.dll
